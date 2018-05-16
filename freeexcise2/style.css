@@ -1,0 +1,52 @@
+body{
+    background: #888;
+}
+#top{
+    background: #aaa;
+    color: white;
+}
+#mainchara{
+    margin: 0 25%;
+}
+.container>div{
+    text-align: center;
+    font-size: 1.5em;
+}
+.porfolio{
+    background: #eee;
+}
+hr{
+    border-top: 5px solid #eee;
+}
+ul{
+    list-style: none;
+}
+li img{
+    width: 100%;
+    height: 500px;
+    padding:auto;
+}
+footer{
+    background: #3d3d3d;
+    color: white;
+}
+footer p{
+    text-align: center;
+    font-size: 2em;
+}
+#logo{
+    text-align: left;
+}
+.topnav{
+    width: 33%
+}
+header{
+    width: 100%;
+    background: #52b690;
+    position: fixed;
+    color: white;
+    z-index: 100;
+}
+#main{
+    padding-top: 60px;
+}

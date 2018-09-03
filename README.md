@@ -1,3 +1,3 @@
 # freeexcise
-freecodecamp上的練習
+freecodecamp上的练习
 ==
